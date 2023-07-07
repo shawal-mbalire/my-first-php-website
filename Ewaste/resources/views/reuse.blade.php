@@ -19,7 +19,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/recycle">Recycling</a>
@@ -28,7 +28,7 @@
               <a class="nav-link" href="/destroy">Destruction</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link " href="/reuse">Reuse</a>
+              <a class="nav-link active" href="/reuse">Reuse</a>
             </li>
             <li class="nav-item">
               <a class="nav-link disabled" >Reuse</a>
